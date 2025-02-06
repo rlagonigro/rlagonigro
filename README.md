@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I am a Senior at Elon University majoring in Finance and Marketing! 
+
+Fun fact: I did Semester at Sea!
+
 <!--
 **rlagonigro/rlagonigro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,5 +16,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... I did Semester at Sea!
 -->
